@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently searching for my first job as a java developer
 - 🌱 I’m currently learning Java and Spring
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love to tell bad jokes 😜
 
 <div align="center">
