@@ -1,7 +1,7 @@
 ### Hello, my name is Thiago, but you can call me by my nickname, wich is thizeh 👋
 
-- 🔭 I’m currently searching for my first job as a java developer
-- 🌱 I’m currently learning Java and Spring
+- 🔭 I’m a FrontEnd Developer at C180Agency
+- 🌱 I'm currently honing my skills in Webflow to achieve expertise.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love to tell bad jokes 😜
 
